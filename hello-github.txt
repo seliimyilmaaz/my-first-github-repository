@@ -1,2 +1,4 @@
   Hello Github
 Change from this file to push from local repository that has been tracked to remote repository before.
+
+Fetch example for local repo (deneme3 branch).
